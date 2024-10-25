@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#ft_list {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    max-width: 400px;
+}
+
+.todo-item {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #e7e7e7;
+    cursor: pointer;
+}
+
+.todo-item:hover {
+    background-color: #d1d1d1;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
